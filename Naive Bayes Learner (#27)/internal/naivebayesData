@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="naivebayesDataModel">
+<entry key="ClassColumnName" type="xstring" value="low_humidity_day"/>
+<config key="ClassColumnType">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<entry key="is_null" type="xboolean" value="false"/>
+</config>
+<entry key="skipMissingVals" type="xboolean" value="false"/>
+<entry key="Threshold" type="xdouble" value="0.0"/>
+<config key="SkippedAttributes">
+<entry key="SkippedAttributesCounter" type="xint" value="0"/>
+</config>
+<config key="AttributeModelSection">
+<entry key="AttributeModelCounter" type="xint" value="9"/>
+<config key="AttributeModelData_0">
+<entry key="attributeName" type="xstring" value="air_pressure_9am"/>
+<entry key="type" type="xstring" value="NumericalModel"/>
+<entry key="skipMissingVals" type="xboolean" value="false"/>
+<entry key="numberOfMissingValues" type="xint" value="0"/>
+<entry key="invalidCause" type="xstring" isnull="true" value=""/>
+<config key="data">
+<entry key="noOfClasses" type="xint" value="2"/>
+<config key="classValueData_0">
+<entry key="classValue" type="xstring" value="humidity_not_low"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="480"/>
+<entry key="sum" type="xdouble" value="440313.6500000036"/>
+<entry key="squareSum" type="xdouble" value="4.039126550549057E8"/>
+</config>
+<config key="classValueData_1">
+<entry key="classValue" type="xstring" value="humidity_low"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="477"/>
+<entry key="sum" type="xdouble" value="439089.12401320704"/>
+<entry key="squareSum" type="xdouble" value="4.0419466757904834E8"/>
+</config>
+</config>
+</config>
+<config key="AttributeModelData_1">
+<entry key="attributeName" type="xstring" value="air_temp_9am"/>
+<entry key="type" type="xstring" value="NumericalModel"/>
+<entry key="skipMissingVals" type="xboolean" value="false"/>
+<entry key="numberOfMissingValues" type="xint" value="0"/>
+<entry key="invalidCause" type="xstring" isnull="true" value=""/>
+<config key="data">
+<entry key="noOfClasses" type="xint" value="2"/>
+<config key="classValueData_0">
+<entry key="classValue" type="xstring" value="humidity_not_low"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="480"/>
+<entry key="sum" type="xdouble" value="29776.17000000085"/>
+<entry key="squareSum" type="xdouble" value="1920343.1934601078"/>
+</config>
+<config key="classValueData_1">
+<entry key="classValue" type="xstring" value="humidity_low"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="477"/>
+<entry key="sum" type="xdouble" value="32330.876949335838"/>
+<entry key="squareSum" type="xdouble" value="2229715.8157993685"/>
+</config>
+</config>
+</config>
+<config key="AttributeModelData_2">
+<entry key="attributeName" type="xstring" value="avg_wind_direction_9am"/>
+<entry key="type" type="xstring" value="NumericalModel"/>
+<entry key="skipMissingVals" type="xboolean" value="false"/>
+<entry key="numberOfMissingValues" type="xint" value="0"/>
+<entry key="invalidCause" type="xstring" isnull="true" value=""/>
+<config key="data">
+<entry key="noOfClasses" type="xint" value="2"/>
+<config key="classValueData_0">
+<entry key="classValue" type="xstring" value="humidity_not_low"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="480"/>
+<entry key="sum" type="xdouble" value="80613.39999999992"/>
+<entry key="squareSum" type="xdouble" value="1.5171877959999992E7"/>
+</config>
+<config key="classValueData_1">
+<entry key="classValue" type="xstring" value="humidity_low"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="477"/>
+<entry key="sum" type="xdouble" value="55908.950192240736"/>
+<entry key="squareSum" type="xdouble" value="8838908.967185339"/>
+</config>
+</config>
+</config>
+<config key="AttributeModelData_3">
+<entry key="attributeName" type="xstring" value="avg_wind_speed_9am"/>
+<entry key="type" type="xstring" value="NumericalModel"/>
+<entry key="skipMissingVals" type="xboolean" value="false"/>
+<entry key="numberOfMissingValues" type="xint" value="0"/>
+<entry key="invalidCause" type="xstring" isnull="true" value=""/>
+<config key="data">
+<entry key="noOfClasses" type="xint" value="2"/>
+<config key="classValueData_0">
+<entry key="classValue" type="xstring" value="humidity_not_low"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="480"/>
+<entry key="sum" type="xdouble" value="2105.146951666546"/>
+<entry key="squareSum" type="xdouble" value="13961.547479630062"/>
+</config>
+<config key="classValueData_1">
+<entry key="classValue" type="xstring" value="humidity_low"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="477"/>
+<entry key="sum" type="xdouble" value="3125.5024505206748"/>
+<entry key="squareSum" type="xdouble" value="34023.99608850301"/>
+</config>
+</config>
+</config>
+<config key="AttributeModelData_4">
+<entry key="attributeName" type="xstring" value="max_wind_direction_9am"/>
+<entry key="type" type="xstring" value="NumericalModel"/>
+<entry key="skipMissingVals" type="xboolean" value="false"/>
+<entry key="numberOfMissingValues" type="xint" value="0"/>
+<entry key="invalidCause" type="xstring" isnull="true" value=""/>
+<config key="data">
+<entry key="noOfClasses" type="xint" value="2"/>
+<config key="classValueData_0">
+<entry key="classValue" type="xstring" value="humidity_not_low"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="480"/>
+<entry key="sum" type="xdouble" value="83689.69999999997"/>
+<entry key="squareSum" type="xdouble" value="1.625414504999999E7"/>
+</config>
+<config key="classValueData_1">
+<entry key="classValue" type="xstring" value="humidity_low"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="477"/>
+<entry key="sum" type="xdouble" value="58379.88177632456"/>
+<entry key="squareSum" type="xdouble" value="9154927.310369145"/>
+</config>
+</config>
+</config>
+<config key="AttributeModelData_5">
+<entry key="attributeName" type="xstring" value="max_wind_speed_9am"/>
+<entry key="type" type="xstring" value="NumericalModel"/>
+<entry key="skipMissingVals" type="xboolean" value="false"/>
+<entry key="numberOfMissingValues" type="xint" value="0"/>
+<entry key="invalidCause" type="xstring" isnull="true" value=""/>
+<config key="data">
+<entry key="noOfClasses" type="xint" value="2"/>
+<config key="classValueData_0">
+<entry key="classValue" type="xstring" value="humidity_not_low"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="480"/>
+<entry key="sum" type="xdouble" value="2656.373706466636"/>
+<entry key="squareSum" type="xdouble" value="21114.627338417413"/>
+</config>
+<config key="classValueData_1">
+<entry key="classValue" type="xstring" value="humidity_low"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="477"/>
+<entry key="sum" type="xdouble" value="4012.532774292817"/>
+<entry key="squareSum" type="xdouble" value="54763.79118516754"/>
+</config>
+</config>
+</config>
+<config key="AttributeModelData_6">
+<entry key="attributeName" type="xstring" value="rain_accumulation_9am"/>
+<entry key="type" type="xstring" value="NumericalModel"/>
+<entry key="skipMissingVals" type="xboolean" value="false"/>
+<entry key="numberOfMissingValues" type="xint" value="0"/>
+<entry key="invalidCause" type="xstring" isnull="true" value=""/>
+<config key="data">
+<entry key="noOfClasses" type="xint" value="2"/>
+<config key="classValueData_0">
+<entry key="classValue" type="xstring" value="humidity_not_low"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="480"/>
+<entry key="sum" type="xdouble" value="167.98500000000433"/>
+<entry key="squareSum" type="xdouble" value="2132.4672649999175"/>
+</config>
+<config key="classValueData_1">
+<entry key="classValue" type="xstring" value="humidity_low"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="477"/>
+<entry key="sum" type="xdouble" value="4.56412129945204"/>
+<entry key="squareSum" type="xdouble" value="4.57547917976797"/>
+</config>
+</config>
+</config>
+<config key="AttributeModelData_7">
+<entry key="attributeName" type="xstring" value="rain_duration_9am"/>
+<entry key="type" type="xstring" value="NumericalModel"/>
+<entry key="skipMissingVals" type="xboolean" value="false"/>
+<entry key="numberOfMissingValues" type="xint" value="0"/>
+<entry key="invalidCause" type="xstring" isnull="true" value=""/>
+<config key="data">
+<entry key="noOfClasses" type="xint" value="2"/>
+<config key="classValueData_0">
+<entry key="classValue" type="xstring" value="humidity_not_low"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="480"/>
+<entry key="sum" type="xdouble" value="248908.0"/>
+<entry key="squareSum" type="xdouble" value="2.289050444E9"/>
+</config>
+<config key="classValueData_1">
+<entry key="classValue" type="xstring" value="humidity_low"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="477"/>
+<entry key="sum" type="xdouble" value="15571.826447788599"/>
+<entry key="squareSum" type="xdouble" value="3.830785370957431E7"/>
+</config>
+</config>
+</config>
+<config key="AttributeModelData_8">
+<entry key="attributeName" type="xstring" value="low_humidity_day"/>
+<entry key="type" type="xstring" value="ClassModel"/>
+<entry key="skipMissingVals" type="xboolean" value="false"/>
+<entry key="numberOfMissingValues" type="xint" value="0"/>
+<entry key="invalidCause" type="xstring" isnull="true" value=""/>
+<config key="data">
+<entry key="totalNoOfRecords" type="xint" value="957"/>
+<entry key="maxNoOfClassValues" type="xint" value="20"/>
+<config key="classValues">
+<entry key="array-size" type="xint" value="2"/>
+<entry key="0" type="xstring" value="humidity_not_low"/>
+<entry key="1" type="xstring" value="humidity_low"/>
+</config>
+<config key="classRecordCounter">
+<entry key="array-size" type="xint" value="2"/>
+<entry key="0" type="xint" value="480"/>
+<entry key="1" type="xint" value="477"/>
+</config>
+</config>
+</config>
+</config>
+</config>
