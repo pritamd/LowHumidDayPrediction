@@ -6,3 +6,7 @@ Sensor measurements from the weather station were captured at one-minute interva
 This repository has both KNIME Workspace and Jupyter Python Notebook for Spark.
 
 I used KNIME to compare the low humid day prediction learning model for Decision Tree, kNN (k = 3) and Naive Bayes. The data is very contradictory and confusing. For example, Decision Tree had best accuracy with 80% train data, kNN (k = 3) had best accuracy with 90% train data and Naive Bayes had best accuracy with 70% train data.
+
+Here is the detail information:
+
+![alt tag](https://github.com/pritamd/LowHumidDayPrediction/blob/master/algocompare.PNG)
