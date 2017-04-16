@@ -9,7 +9,7 @@
 <entry key="selected_column" type="xstring" value="low_humidity_day"/>
 <entry key="is_nominal" type="xboolean" value="true"/>
 <entry key="humidity_low" type="xint" value="-65536"/>
-<entry key="humidity_not_low" type="xint" value="-16711681"/>
+<entry key="humidity_not_low" type="xint" value="-16777114"/>
 <config key="values">
 <entry key="array-size" type="xint" value="2"/>
 <config key="0">
@@ -32,7 +32,7 @@
 <entry key="x-coordinate" type="xint" value="794"/>
 <entry key="y-coordinate" type="xint" value="1539"/>
 <entry key="width" type="xint" value="133"/>
-<entry key="height" type="xint" value="36"/>
+<entry key="height" type="xint" value="34"/>
 <entry key="alignment" type="xstring" value="CENTER"/>
 <entry key="borderSize" type="xint" value="0"/>
 <entry key="borderColor" type="xint" value="16777215"/>
@@ -76,6 +76,6 @@
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="330c54ef-86a5-4966-9f61-be51532dc1d1"/>
+<entry key="file_store_id" type="xstring" value="5b5d38c4-3a20-4e0e-bfb6-71b790929a0f"/>
 </config>
 </config>

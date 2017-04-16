@@ -11,26 +11,26 @@
 <entry key="EnabledStatus" type="xboolean" value="true"/>
 </config>
 <entry key="classifyColumn" type="xstring" value="low_humidity_day"/>
-<config key="threshold_Internals">
-<entry key="SettingsModelID" type="xstring" value="SMID_double"/>
-<entry key="EnabledStatus" type="xboolean" value="true"/>
-</config>
-<entry key="threshold" type="xdouble" value="0.0"/>
-<config key="maxNoOfNomVals_Internals">
-<entry key="SettingsModelID" type="xstring" value="SMID_integer"/>
-<entry key="EnabledStatus" type="xboolean" value="true"/>
-</config>
-<entry key="maxNoOfNomVals" type="xint" value="20"/>
 <config key="skipMissingVals_Internals">
 <entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
 <entry key="EnabledStatus" type="xboolean" value="true"/>
 </config>
 <entry key="skipMissingVals" type="xboolean" value="false"/>
+<config key="maxNoOfNomVals_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_integer"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<entry key="maxNoOfNomVals" type="xint" value="20"/>
 <config key="compatiblePMML_Internals">
 <entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
 <entry key="EnabledStatus" type="xboolean" value="true"/>
 </config>
 <entry key="compatiblePMML" type="xboolean" value="false"/>
+<config key="threshold_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_double"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<entry key="threshold" type="xdouble" value="0.0"/>
 </config>
 <entry key="customDescription" type="xstring" isnull="true" value=""/>
 <entry key="state" type="xstring" value="EXECUTED"/>
@@ -68,6 +68,6 @@
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="48dffb45-ad87-4e90-8031-c3de79512aa6"/>
+<entry key="file_store_id" type="xstring" value="fddd1d60-f440-4ecf-b495-f4e8ba393b3d"/>
 </config>
 </config>

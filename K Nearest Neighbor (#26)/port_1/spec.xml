@@ -238,7 +238,7 @@
 </config>
 </config>
 <entry key="humidity_low" type="xint" value="-65536"/>
-<entry key="humidity_not_low" type="xint" value="-16711681"/>
+<entry key="humidity_not_low" type="xint" value="-16777114"/>
 </config>
 </config>
 </config>

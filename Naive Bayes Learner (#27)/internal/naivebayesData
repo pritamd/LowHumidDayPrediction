@@ -23,16 +23,16 @@
 <config key="classValueData_0">
 <entry key="classValue" type="xstring" value="humidity_not_low"/>
 <entry key="MissingValCounter" type="xint" value="0"/>
-<entry key="noOfRows" type="xint" value="480"/>
-<entry key="sum" type="xdouble" value="440313.6500000036"/>
-<entry key="squareSum" type="xdouble" value="4.039126550549057E8"/>
+<entry key="noOfRows" type="xint" value="416"/>
+<entry key="sum" type="xdouble" value="381636.3000000032"/>
+<entry key="squareSum" type="xdouble" value="3.50114753003005E8"/>
 </config>
 <config key="classValueData_1">
 <entry key="classValue" type="xstring" value="humidity_low"/>
 <entry key="MissingValCounter" type="xint" value="0"/>
-<entry key="noOfRows" type="xint" value="477"/>
-<entry key="sum" type="xdouble" value="439089.12401320704"/>
-<entry key="squareSum" type="xdouble" value="4.0419466757904834E8"/>
+<entry key="noOfRows" type="xint" value="435"/>
+<entry key="sum" type="xdouble" value="400425.5378569857"/>
+<entry key="squareSum" type="xdouble" value="3.6860221396808267E8"/>
 </config>
 </config>
 </config>
@@ -47,16 +47,16 @@
 <config key="classValueData_0">
 <entry key="classValue" type="xstring" value="humidity_not_low"/>
 <entry key="MissingValCounter" type="xint" value="0"/>
-<entry key="noOfRows" type="xint" value="480"/>
-<entry key="sum" type="xdouble" value="29776.17000000085"/>
-<entry key="squareSum" type="xdouble" value="1920343.1934601078"/>
+<entry key="noOfRows" type="xint" value="416"/>
+<entry key="sum" type="xdouble" value="25746.79600000074"/>
+<entry key="squareSum" type="xdouble" value="1656473.7233120962"/>
 </config>
 <config key="classValueData_1">
 <entry key="classValue" type="xstring" value="humidity_low"/>
 <entry key="MissingValCounter" type="xint" value="0"/>
-<entry key="noOfRows" type="xint" value="477"/>
-<entry key="sum" type="xdouble" value="32330.876949335838"/>
-<entry key="squareSum" type="xdouble" value="2229715.8157993685"/>
+<entry key="noOfRows" type="xint" value="435"/>
+<entry key="sum" type="xdouble" value="29449.685788086354"/>
+<entry key="squareSum" type="xdouble" value="2028429.3022348785"/>
 </config>
 </config>
 </config>
@@ -71,16 +71,16 @@
 <config key="classValueData_0">
 <entry key="classValue" type="xstring" value="humidity_not_low"/>
 <entry key="MissingValCounter" type="xint" value="0"/>
-<entry key="noOfRows" type="xint" value="480"/>
-<entry key="sum" type="xdouble" value="80613.39999999992"/>
-<entry key="squareSum" type="xdouble" value="1.5171877959999992E7"/>
+<entry key="noOfRows" type="xint" value="416"/>
+<entry key="sum" type="xdouble" value="69378.49999999999"/>
+<entry key="squareSum" type="xdouble" value="1.3044340569999991E7"/>
 </config>
 <config key="classValueData_1">
 <entry key="classValue" type="xstring" value="humidity_low"/>
 <entry key="MissingValCounter" type="xint" value="0"/>
-<entry key="noOfRows" type="xint" value="477"/>
-<entry key="sum" type="xdouble" value="55908.950192240736"/>
-<entry key="squareSum" type="xdouble" value="8838908.967185339"/>
+<entry key="noOfRows" type="xint" value="435"/>
+<entry key="sum" type="xdouble" value="51439.08207756792"/>
+<entry key="squareSum" type="xdouble" value="8184707.313708734"/>
 </config>
 </config>
 </config>
@@ -95,16 +95,16 @@
 <config key="classValueData_0">
 <entry key="classValue" type="xstring" value="humidity_not_low"/>
 <entry key="MissingValCounter" type="xint" value="0"/>
-<entry key="noOfRows" type="xint" value="480"/>
-<entry key="sum" type="xdouble" value="2105.146951666546"/>
-<entry key="squareSum" type="xdouble" value="13961.547479630062"/>
+<entry key="noOfRows" type="xint" value="416"/>
+<entry key="sum" type="xdouble" value="1831.1590839998933"/>
+<entry key="squareSum" type="xdouble" value="12124.477085884802"/>
 </config>
 <config key="classValueData_1">
 <entry key="classValue" type="xstring" value="humidity_low"/>
 <entry key="MissingValCounter" type="xint" value="0"/>
-<entry key="noOfRows" type="xint" value="477"/>
-<entry key="sum" type="xdouble" value="3125.5024505206748"/>
-<entry key="squareSum" type="xdouble" value="34023.99608850301"/>
+<entry key="noOfRows" type="xint" value="435"/>
+<entry key="sum" type="xdouble" value="2799.478983672079"/>
+<entry key="squareSum" type="xdouble" value="29934.88959918486"/>
 </config>
 </config>
 </config>
@@ -119,16 +119,16 @@
 <config key="classValueData_0">
 <entry key="classValue" type="xstring" value="humidity_not_low"/>
 <entry key="MissingValCounter" type="xint" value="0"/>
-<entry key="noOfRows" type="xint" value="480"/>
-<entry key="sum" type="xdouble" value="83689.69999999997"/>
-<entry key="squareSum" type="xdouble" value="1.625414504999999E7"/>
+<entry key="noOfRows" type="xint" value="416"/>
+<entry key="sum" type="xdouble" value="71567.9"/>
+<entry key="squareSum" type="xdouble" value="1.3789852089999992E7"/>
 </config>
 <config key="classValueData_1">
 <entry key="classValue" type="xstring" value="humidity_low"/>
 <entry key="MissingValCounter" type="xint" value="0"/>
-<entry key="noOfRows" type="xint" value="477"/>
-<entry key="sum" type="xdouble" value="58379.88177632456"/>
-<entry key="squareSum" type="xdouble" value="9154927.310369145"/>
+<entry key="noOfRows" type="xint" value="435"/>
+<entry key="sum" type="xdouble" value="53556.95709610283"/>
+<entry key="squareSum" type="xdouble" value="8445457.380772924"/>
 </config>
 </config>
 </config>
@@ -143,16 +143,16 @@
 <config key="classValueData_0">
 <entry key="classValue" type="xstring" value="humidity_not_low"/>
 <entry key="MissingValCounter" type="xint" value="0"/>
-<entry key="noOfRows" type="xint" value="480"/>
-<entry key="sum" type="xdouble" value="2656.373706466636"/>
-<entry key="squareSum" type="xdouble" value="21114.627338417413"/>
+<entry key="noOfRows" type="xint" value="416"/>
+<entry key="sum" type="xdouble" value="2306.4640951999727"/>
+<entry key="squareSum" type="xdouble" value="18254.402390972027"/>
 </config>
 <config key="classValueData_1">
 <entry key="classValue" type="xstring" value="humidity_low"/>
 <entry key="MissingValCounter" type="xint" value="0"/>
-<entry key="noOfRows" type="xint" value="477"/>
-<entry key="sum" type="xdouble" value="4012.532774292817"/>
-<entry key="squareSum" type="xdouble" value="54763.79118516754"/>
+<entry key="noOfRows" type="xint" value="435"/>
+<entry key="sum" type="xdouble" value="3589.1771745948763"/>
+<entry key="squareSum" type="xdouble" value="48087.05710495715"/>
 </config>
 </config>
 </config>
@@ -167,16 +167,16 @@
 <config key="classValueData_0">
 <entry key="classValue" type="xstring" value="humidity_not_low"/>
 <entry key="MissingValCounter" type="xint" value="0"/>
-<entry key="noOfRows" type="xint" value="480"/>
-<entry key="sum" type="xdouble" value="167.98500000000433"/>
-<entry key="squareSum" type="xdouble" value="2132.4672649999175"/>
+<entry key="noOfRows" type="xint" value="416"/>
+<entry key="sum" type="xdouble" value="139.07700000000523"/>
+<entry key="squareSum" type="xdouble" value="1632.9619149999396"/>
 </config>
 <config key="classValueData_1">
 <entry key="classValue" type="xstring" value="humidity_low"/>
 <entry key="MissingValCounter" type="xint" value="0"/>
-<entry key="noOfRows" type="xint" value="477"/>
-<entry key="sum" type="xdouble" value="4.56412129945204"/>
-<entry key="squareSum" type="xdouble" value="4.57547917976797"/>
+<entry key="noOfRows" type="xint" value="435"/>
+<entry key="sum" type="xdouble" value="4.365912418414909"/>
+<entry key="squareSum" type="xdouble" value="4.545497856560663"/>
 </config>
 </config>
 </config>
@@ -191,16 +191,16 @@
 <config key="classValueData_0">
 <entry key="classValue" type="xstring" value="humidity_not_low"/>
 <entry key="MissingValCounter" type="xint" value="0"/>
-<entry key="noOfRows" type="xint" value="480"/>
-<entry key="sum" type="xdouble" value="248908.0"/>
-<entry key="squareSum" type="xdouble" value="2.289050444E9"/>
+<entry key="noOfRows" type="xint" value="416"/>
+<entry key="sum" type="xdouble" value="219858.0"/>
+<entry key="squareSum" type="xdouble" value="2.109235802E9"/>
 </config>
 <config key="classValueData_1">
 <entry key="classValue" type="xstring" value="humidity_low"/>
 <entry key="MissingValCounter" type="xint" value="0"/>
-<entry key="noOfRows" type="xint" value="477"/>
-<entry key="sum" type="xdouble" value="15571.826447788599"/>
-<entry key="squareSum" type="xdouble" value="3.830785370957431E7"/>
+<entry key="noOfRows" type="xint" value="435"/>
+<entry key="sum" type="xdouble" value="14271.384564903185"/>
+<entry key="squareSum" type="xdouble" value="3.7265694231291756E7"/>
 </config>
 </config>
 </config>
@@ -211,17 +211,17 @@
 <entry key="numberOfMissingValues" type="xint" value="0"/>
 <entry key="invalidCause" type="xstring" isnull="true" value=""/>
 <config key="data">
-<entry key="totalNoOfRecords" type="xint" value="957"/>
+<entry key="totalNoOfRecords" type="xint" value="851"/>
 <entry key="maxNoOfClassValues" type="xint" value="20"/>
 <config key="classValues">
 <entry key="array-size" type="xint" value="2"/>
-<entry key="0" type="xstring" value="humidity_not_low"/>
-<entry key="1" type="xstring" value="humidity_low"/>
+<entry key="0" type="xstring" value="humidity_low"/>
+<entry key="1" type="xstring" value="humidity_not_low"/>
 </config>
 <config key="classRecordCounter">
 <entry key="array-size" type="xint" value="2"/>
-<entry key="0" type="xint" value="480"/>
-<entry key="1" type="xint" value="477"/>
+<entry key="0" type="xint" value="435"/>
+<entry key="1" type="xint" value="416"/>
 </config>
 </config>
 </config>

@@ -238,7 +238,7 @@
 </config>
 </config>
 <entry key="humidity_low" type="xint" value="-65536"/>
-<entry key="humidity_not_low" type="xint" value="-16711681"/>
+<entry key="humidity_not_low" type="xint" value="-16777114"/>
 </config>
 </config>
 </config>
@@ -256,13 +256,13 @@
 <config key="0">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="humidity_low"/>
+<entry key="StringCell" type="xstring" value="humidity_not_low"/>
 </config>
 </config>
 <config key="1">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="humidity_not_low"/>
+<entry key="StringCell" type="xstring" value="humidity_low"/>
 </config>
 </config>
 </config>
